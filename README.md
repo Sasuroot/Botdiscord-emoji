@@ -13,4 +13,4 @@ First, go to the discord developer portal
 
 And create application !
 
-https://skybot.fr/uploads/1600337657.png
+![téléchargement (62)](https://user-images.githubusercontent.com/60527359/93457640-89b5a600-f8df-11ea-8d57-fb4843b679c4.png)
