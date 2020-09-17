@@ -14,3 +14,11 @@ First, go to the discord developer portal
 And create application !
 
 ![téléchargement (62)](https://user-images.githubusercontent.com/60527359/93457640-89b5a600-f8df-11ea-8d57-fb4843b679c4.png)
+
+Now go to bot and click on Add Bot
+
+![téléchargement (62)](https://skybot.fr/uploads/1600338156.png)
+
+Now you have a bot :DDD
+
+# How launch the script a discord bot ?
