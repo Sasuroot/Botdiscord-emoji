@@ -52,11 +52,9 @@ Now let's practice
 **The token is something precious and you must not share it under any circumstances !!**
 ![téléchargement (62)](https://skybot.fr/uploads/1600345133.png)
 
-4. Now paste the token to the `config.json` file 
-![téléchargement (62)](https://skybot.fr/uploads/1600345413.gif)
+4. Now paste the token to the `config.json` file  ![téléchargement (62)](https://skybot.fr/uploads/1600345413.gif)
 
-5. Now open terminal and write `node index.js`
-![téléchargement (62)](https://skybot.fr/uploads/1600345531.gif)
+5. Now open terminal and write `node index.js` ![téléchargement (62)](https://skybot.fr/uploads/1600345531.gif)
 
 6. Now the bot is online GG !
 
