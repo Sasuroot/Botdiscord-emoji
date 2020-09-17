@@ -27,7 +27,7 @@ Now you have a bot :DDD
 ![téléchargement (62)](https://skybot.fr/uploads/1600345742.gif)
 
 2. Go to this site [Permissions calculator](https://discordapi.com/permissions.html#536881152) and paste the ID in the Client ID and click on the link for add your bot in your server
-![téléchargement (62)](https://im2.ezgif.com/tmp/ezgif-2-0f510da5e696.gif)
+![téléchargement (62)](https://im2.ezgif.com/tmp/ezgif-2-5151b452ba05.gif)
 
 3. Now your bot is in your server :O GG !
 
