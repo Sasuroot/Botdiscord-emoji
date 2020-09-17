@@ -50,6 +50,7 @@ Now let's practice
 
 3. Now you have to go to the [Portal developer discord](https://discord.com/developers/applications) and take the token from your discord bot 
 **The token is something precious and you must not share it under any circumstances !!**
+
 ![téléchargement (62)](https://skybot.fr/uploads/1600345133.png)
 
 4. Now paste the token to the `config.json` file 
