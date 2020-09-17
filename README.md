@@ -27,7 +27,6 @@ Now you have a bot :DDD
 ![téléchargement (62)](https://skybot.fr/uploads/1600345742.gif)
 
 2. Go to this site [Permissions calculator](https://discordapi.com/permissions.html#536881152) and paste the ID in the Client ID and click on the link for add your bot in your server
--![Sample Gif](https://i.goopics.net/DXR74.gif)
 
 3. Now your bot is in your server :O GG !
 
@@ -50,7 +49,6 @@ Now let's practice
 
 3. Now you have to go to the [Portal developer discord](https://discord.com/developers/applications) and take the token from your discord bot 
 **The token is something precious and you must not share it under any circumstances !!**
-
 ![téléchargement (62)](https://skybot.fr/uploads/1600345133.png)
 
 4. Now paste the token to the `config.json` file 
