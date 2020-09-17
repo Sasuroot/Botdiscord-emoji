@@ -27,7 +27,7 @@ client.on("message", (msg) => {
                 avatarURL: msg.author.displayAvatarURL({ format: "png" }),
               });
             } catch (error) {
-              msg.reply("Veillez réssayer cette commandes");
+              msg.reply("Please repeat your command :p");
             }
     }
   });
