@@ -35,7 +35,7 @@ Now you have a bot :DDD
 
 First of all you need prerequisites
 
-##You need to:
+## You need to:
 
 * [Node Js](https://nodejs.org/en/)
 * [Visual studio Code](https://code.visualstudio.com/)
